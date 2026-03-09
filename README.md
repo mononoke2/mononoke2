@@ -51,7 +51,7 @@ I'm currently finalizing my Master's Degree in Computer Science, focusing on aca
 |:---|:---|:---:|
 | 🧠 **[ml-project](https://github.com/mononoke2/ml-project)** | *People Detection & Counting using YOLO and Faster R-CNN (ResNet50).* | `TeX` / `ML` |
 | 🧬 **[data-mining-project](https://github.com/mononoke2/data-mining-project)** | *Classifier for Breast Cancer (BC) subtypes and stages.* | `Data Mining` |
-| 🧫 **[bioinformatics-project](https://github.com/mononoke2/bioinformatics-project)** | *Exploring and uncovering patterns in biological data using AI.* | `AI` / `Bioinformatics`|
+| 🧫 **[bioinformatics-project](https://github.com/mononoke2/bioinformatics-project)** | *Autoencoder to select proper normal samples for disease signature.* | `AI` / `Bioinformatics`|
 | 🔍 **[ia-project](https://github.com/mononoke2/ia-project)** | *Tabu Search Algorithm solving the Weighted Feedback Vertex Set Problem.* | `TeX` / `AI`|
 | 📊 **[fondamenti-analisi-dati-project](https://github.com/mononoke2/fondamenti-analisi-dati-project)** | *Data correlations on socio-cultural statistics (police violence & minorities).* | `Jupyter Notebook`|
 | 🎮 **[smm-project](https://github.com/mononoke2/smm-project)** | *Steam API Profiling & Recommendations System tutorial.* | `HTML` / `RecSys`|
