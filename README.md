@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="mononoke2 banner" width="50%" />
+  <img src="header.png" alt="mononoke2 banner" width="30%" />
 </div>
 
 <h3 align="center">Computer Science Master's Student | Artificial Intelligence & Bioinformatics</h3>
