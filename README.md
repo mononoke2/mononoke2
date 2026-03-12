@@ -50,6 +50,7 @@ I'm currently finalizing my Master's Degree in Computer Science, focusing on aca
 | Project | Description | Tech/Language |
 |:---|:---|:---:|
 | 🧠 **[ml-project](https://github.com/mononoke2/ml-project)** | *People Detection & Counting using YOLO and Faster R-CNN (ResNet50).* | `TeX` / `ML` |
+| 💡 **[wattson](https://github.com/mononoke2/wattson)** | *Smart Plug Monitoring & Control System* | `ETL (Logstash+Kafka+Elasticsearch)` / `ML` / `RAG Chatbot` |
 | 🧬 **[data-mining-project](https://github.com/mononoke2/data-mining-project)** | *Classifier for Breast Cancer (BC) subtypes and stages.* | `Data Mining` |
 | 🧫 **[bioinformatics-project](https://github.com/mononoke2/bioinformatics-project)** | *Autoencoder to select proper normal samples for disease signature.* | `AI` / `Bioinformatics`|
 | 🔍 **[ia-project](https://github.com/mononoke2/ia-project)** | *Tabu Search Algorithm solving the Weighted Feedback Vertex Set Problem.* | `TeX` / `AI`|
@@ -62,7 +63,7 @@ I'm currently finalizing my Master's Degree in Computer Science, focusing on aca
   <summary><b>🌱 See more projects...</b></summary>
   <ul>
     <li><b><a href="https://github.com/mononoke2/mms-project">mms-project</a></b>: Ehrenfest's physical model on the second law of thermodynamics (Processing GUI).</li>
-    <li><b><a href="https://github.com/mononoke2/GPT-and-BERT-classification">GPT-and-BERT-classification</a></b>: NLP classification tasks.</li>
+    <li><b><a href="https://github.com/mononoke2/GPT-and-BERT-classification">[Work in progress] GPT-and-BERT-classification</a></b>: NLP classification tasks.</li>
   </ul>
 </details>
 
