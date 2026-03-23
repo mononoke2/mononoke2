@@ -55,17 +55,12 @@ I'm currently finalizing my Master's Degree in Computer Science, focusing on aca
 | 🧬 **[data-mining-project](https://github.com/mononoke2/data-mining-project)** | *Classifier for Breast Cancer (BC) subtypes and stages.* | `Data Mining` |
 | 🧫 **[bioinformatics-project](https://github.com/mononoke2/bioinformatics-project)** | *Autoencoder to select proper normal samples for disease signature.* | `AI` / `Bioinformatics`|
 | 🔍 **[ia-project](https://github.com/mononoke2/ia-project)** | *Tabu Search Algorithm solving the Weighted Feedback Vertex Set Problem.* | `TeX` / `AI`|
+| 🤖 **[nlp-project](https://github.com/mononoke2/GPT-and-BERT-classification)** | GPT and BERT Classification on TREC Dataset | `Fine-tuning` / `BERT` / `GPT` |
 | 📊 **[fondamenti-analisi-dati-project](https://github.com/mononoke2/fondamenti-analisi-dati-project)** | *Data correlations on socio-cultural statistics (police violence & minorities).* | `Jupyter Notebook`|
 | 🎮 **[smm-project](https://github.com/mononoke2/smm-project)** | *Steam API Profiling & Recommendations System tutorial.* | `HTML` / `RecSys`|
+| 🧮 **[mms-project](https://github.com/mononoke2/mms-project)** | *Ehrenfest's physical model on the second law of thermodynamics* | `Processing` / `GUI` | 
 
 <br>
 
-<details>
-  <summary><b>🌱 See more projects...</b></summary>
-  <ul>
-    <li><b><a href="https://github.com/mononoke2/mms-project">mms-project</a></b>: Ehrenfest's physical model on the second law of thermodynamics (Processing GUI).</li>
-    <li><b><a href="https://github.com/mononoke2/GPT-and-BERT-classification">[Work in progress] GPT-and-BERT-classification</a></b>: NLP classification tasks.</li>
-  </ul>
-</details>
 
 ---
